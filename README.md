@@ -3,8 +3,8 @@
 ## Requirements:
 
 ```
-Spring Boot : 3.5.0
-Java : 24
+Spring Boot : 3.5.6
+Java : 25
 Maven : 3.9+
 ```
 
